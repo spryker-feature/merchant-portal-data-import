@@ -1,0 +1,16 @@
+{
+    "name": "spryker-feature/merchant-portal-data-import",
+    "description": "Merchant Portal Data Import [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.2"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202510.x-dev"
+        }
+    }
+}
