@@ -7,3 +7,7 @@ The Merchant Portal Data Import enables merchants to manage large sets of inform
 ```
 composer require spryker-feature/merchant-portal-data-import
 ```
+
+## Optional modules
+- [DataImportMerchantExtension ^1.0.0](https://github.com/spryker/data-import-merchant-extension) (Extension)
+- [DataImportMerchantPortalGui ^1.0.0](https://github.com/spryker/data-import-merchant-portal-gui) (MP GUI)
