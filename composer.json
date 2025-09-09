@@ -6,7 +6,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.2"
+        "php": ">=8.2",
+        "spryker/data-import-merchant": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
