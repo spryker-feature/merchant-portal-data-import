@@ -8,11 +8,11 @@
     "require": {
         "php": ">=8.2",
         "spryker/data-import-merchant": "^1.0.0",
-        "spryker/data-import-merchant-portal-gui": "^2.0.0"
+        "spryker/data-import-merchant-portal-gui": "^2.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202512.x-dev"
+            "dev-master": "202602.x-dev"
         }
     }
 }
